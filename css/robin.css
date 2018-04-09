@@ -1,0 +1,26 @@
+/**
+* @license MT
+* @team HUAXINZHI
+*/
+
+
+*{
+	margin: 0 auto;
+}
+
+
+
+ /*固定容器*/
+.wrapper{
+	max-width: 1300px;
+}
+
+/*自适应容器*/
+.adapt-wrapper{
+	width: 100%;
+}
+
+
+
+
+
